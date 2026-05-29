@@ -206,7 +206,7 @@ function showHelp() {
 function showFeedback() {
   console.log(`
 \x1b[1mTo give feedback, please report issues at:\x1b[0m
-  \x1b[36mhttps://github.com/anomalyco/opencode/issues\x1b[0m
+  \x1b[36mhttps://github.com/aarush-dixit-012/zest/issues\x1b[0m
 `);
 }
 
