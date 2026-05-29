@@ -5,7 +5,7 @@ Zest is a command line tool for quick tool chat. The memory is not saved.It is c
 Version 2.0.0 would be live soon written in zig with skills and extra features.
 
 ## Requirements
-1. Bun should must be installed in pc. If not install it via **https://bun.com/docs/installation**[https://bun.com/docs/installation]
+1. Bun should must be installed in pc. If not install via [https://bun.com/docs/installation]
 
 ## Installation
 
