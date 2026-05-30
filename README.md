@@ -1,4 +1,4 @@
-[![Watch the video](https://youtu.be/K6qRad5Mw8Q)
+https://youtu.be/K6qRad5Mw8Q
 
 # zest
  
