@@ -1,4 +1,4 @@
-[https://github.com/aarush-dixit-012/zest/blob/main/%23I%20am%20not%20fake.mp4]
+[https://github.com/aarush-dixit-012/zest/raw/refs/heads/main/%23I%20am%20not20fake.mp4]
 
 # zest
  
