@@ -1,4 +1,8 @@
-[https://github.com/aarush-dixit-012/zest/raw/refs/heads/main/%23I%20am%20not20fake.mp4]
+[Watch this video](https://youtu.be/K6qRad5Mw8Q)
+
+Example:
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 # zest
  
