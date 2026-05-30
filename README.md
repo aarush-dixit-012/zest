@@ -1,8 +1,8 @@
-[Watch this video](https://youtu.be/K6qRad5Mw8Q)
+[Watch this video]()
 
 Example:
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/K6qRad5Mw8Q]
 
 # zest
  
