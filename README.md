@@ -17,6 +17,8 @@ cd zest
 bun install
 ```
 
+Add environment variables
+
 ## Usage
 ```
 bun dev
